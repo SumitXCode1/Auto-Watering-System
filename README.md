@@ -21,4 +21,4 @@ The sensor checks the soil moisture. If it's dry, it activates the relay to star
 ![Circuit Diagram](circuit_diagram.png)
 
 ## Code
-See `code/main.ino`
+See `auto_watering.ino`
